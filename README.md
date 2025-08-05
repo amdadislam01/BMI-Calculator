@@ -28,7 +28,7 @@ A responsive and user-friendly **Body Mass Index (BMI)** calculator built using 
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="https://i.postimg.cc/4N1tVtFF/bmi-calculator.png" alt="BMI Calculator Screenshot" width="600"/>
+  <img src="https://ik.imagekit.io/yqnbhdlo4/Img/BMI-calculator?updatedAt=1754379421465" alt="BMI Calculator Screenshot" width="1000"/>
 </p>
 
 ---
