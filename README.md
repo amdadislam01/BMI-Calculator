@@ -1,33 +1,46 @@
 # 🧮 BMI Calculator
 
-A simple and responsive **BMI (Body Mass Index) Calculator** built with **HTML**, **CSS**, and **JavaScript**. This tool helps users quickly calculate their BMI based on weight and height inputs.
+A responsive and user-friendly **Body Mass Index (BMI)** calculator built using **HTML**, **CSS**, and **JavaScript**. This tool helps users easily determine their BMI and understand their health status based on their weight and height.
 
-🔗 **Live Site:** [Click Here](https://amdadislam01.github.io/BMI-Calculator/)
+🔗 **Live Preview:** [Visit Site](https://amdadislam01.github.io/BMI-Calculator/)
 
 ---
 
-## ✨ Features
+## 📌 Features
 
-- ✅ Input height and weight to calculate BMI
-- ✅ Displays BMI category (Underweight, Normal, Overweight, Obese)
-- ✅ Instant result with dynamic styling
-- ✅ Simple and responsive design
-- ✅ Clean UI with easy-to-use interface
+- ✅ Real-time BMI calculation
+- ✅ Categorizes result: Underweight, Normal, Overweight, Obese
+- ✅ Clean, minimal, and responsive design
+- ✅ Lightweight and easy to use
+- ✅ No frameworks — built with pure HTML, CSS, and JavaScript
 
 ---
 
 ## 🛠️ Technologies Used
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" alt="Tech Stack" />
+</p>)
+
+---
+
+## 🖼️ Screenshot
+
+<p align="center">
+  <img src="https://i.postimg.cc/4N1tVtFF/bmi-calculator.png" alt="BMI Calculator Screenshot" width="600"/>
 </p>
 
 ---
 
-## 📸 Screenshot
+## 🚀 How to Run Locally
 
-> Add your own screenshot here if possible:
-```html
-<p align="center">
-  <img src="https://i.postimg.cc/4N1tVtFF/bmi-calculator.png" alt="BMI Calculator Screenshot" width="600"/>
-</p>
+Follow these steps to run the project on your local machine:
+
+```bash
+# Clone the repository
+git clone https://github.com/amdadislam01/BMI-Calculator.git
+
+# Navigate to the folder
+cd BMI-Calculator
+
+
