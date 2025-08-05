@@ -57,5 +57,25 @@
             <button id="calculate" class="w-full bg-cyan-600 hover:bg-cyan-700 text-white font-bold py-3 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 transform hover:scale-[1.02] active:scale-95 group">
                 <span class="group-hover:animate-pulse">Calculate BMI</span>
             </button>
+
+            <div id="result" class="mt-8 hidden animate__animated">
+                <div class="bg-gray-50 p-5 rounded-xl border border-gray-200 shadow-sm">
+                    <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-1">Your BMI</h3>
+                    <div id="bmi-value" class="text-4xl font-bold mb-1 tracking-tight"></div>
+                    <div id="bmi-category" class="text-lg font-medium"></div>
+                    <div id="bmi-range" class="text-sm text-gray-600 mt-3"></div>
+                </div>
+                
+                <div class="mt-6 animate__animated animate__fadeIn">
+                    <h4 class="font-medium text-gray-700 mb-3 text-sm uppercase tracking-wider">BMI Scale</h4>
+                    <div class="grid grid-cols-4 gap-0.5 text-xs text-white font-medium rounded-lg overflow-hidden shadow">
+                        <div class="bg-cyan-400 p-2 text-center">Underweight<br>&lt; 18.5</div>
+                        <div class="bg-emerald-400 p-2 text-center">Normal<br>18.5 - 24.9</div>
+                        <div class="bg-amber-400 p-2 text-center">Overweight<br>25 - 29.9</div>
+                        <div class="bg-rose-400 p-2 text-center">Obese<br>≥ 30</div>
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
 </html>
