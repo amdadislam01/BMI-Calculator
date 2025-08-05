@@ -18,9 +18,10 @@ A responsive and user-friendly **Body Mass Index (BMI)** calculator built using 
 
 ## 🛠️ Technologies Used
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github" alt="Tech Stack" />
-</p>)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,github" alt="Tech Stack" width="220"/>
+</p>
+
 
 ---
 
