@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator
+# 🧮 BMI Calculato
 
 A responsive and user-friendly **Body Mass Index (BMI)** calculator built using **HTML**, **CSS**, and **JavaScript**. This tool helps users easily determine their BMI and understand their health status based on their weight and height.
 
